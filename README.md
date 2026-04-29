@@ -1,11 +1,20 @@
-# Proposta web per FoodLogistic
 
-![Logo](FoodLogisticLogo.png)
+# Web Corporativa de FoodLogistics S.L
 
-Autors: [nom dels components del grup]
+Aquesta és la web corporativa de FoodLogistics S.L, una empresa fictícia dedicada a la logística i distribució de productes alimentaris dins el mòdul *Projecte Intermodular*.
 
-## Descripció
+## Demostració
 
-Aquest repositori recull la proposta de **landing page** per a FoodLogistic, orientada a presentar de manera clara els serveis de l’empresa, reforçar la confiança de les persones usuàries i facilitar la captació de contactes comercials.
+[🌐 URL de la web](https://17tayyy.github.io/web-corporativa-t02)
 
-La tasca inclou la definició de l’estructura de continguts, la proposta visual i l’enfocament de comunicació, així com l’adaptació de la pàgina a la normativa vigent en matèria de comerç electrònic i protecció de dades: **RGPD** i **LSSI-CE**. En concret, es contempla la incorporació d’elements legals i de transparència com l’avís legal, la política de privacitat, la política de cookies i els mecanismes de consentiment corresponents.
+## Tecnologies Utilitzades
+
+Per la creació d'aquesta web, s'han utilitzat les següents tecnologies i eines:
+
+- GitHub Copilot (Claude) per a la generació del contingut textual i codi HTML/CSS.
+- HTML5/CSS3
+- Statcounter per l'analítica
+
+## Autor
+
+👤 Oscar Fernandez
